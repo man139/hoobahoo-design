@@ -1,4 +1,8 @@
+# hoobahoo-design
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+> Note: This repository focuses on design and responsiveness, the chat functionality is not implemented yet.
 
 ## Getting Started
 
